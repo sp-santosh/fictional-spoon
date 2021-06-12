@@ -1,3 +1,5 @@
+//Write a program to print the reverse of a 3-digit number input by user.
+//Example: if the number input by user is 325, then the output should be 523.
 package Assignments;
 import java.util.Scanner;
 public class Q13 {
