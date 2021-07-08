@@ -5,7 +5,7 @@ public class Q13 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number: ");
         int n = sc.nextInt();
-        int i,j,k=0;
+        int i,j;
         for(i=1;i<=n;i++){
 
             for (j=n; j > i; j--) {
